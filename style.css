@@ -1,0 +1,111 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-size: 120%;
+	background: #003399;
+
+}
+.intro{
+	display: block;
+	background:#4d4d4d;
+	padding: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #33adff;
+	border-bottom: 2px solid yellow;
+
+}
+.intro1{
+	display: block;
+	background:#4d4d4d;
+	padding: 15px 0px 2px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #33adff;
+	border-bottom: 2px solid yellow;
+
+}
+.header{
+
+	width: 30%;
+	margin: 50px auto 0px;
+	color: #00004d;
+	background: #ffff99;
+	text-align: center;
+	border: 1.5px solid cyan;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.header1{
+	text-align: center;
+	width:20%;
+	margin:10px auto;
+	color:yellow;
+
+}
+.Welcome{
+	color:pink;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	text-align: center;
+}
+form{
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1.5px solid cyan;
+	border-radius: 0px 0px 10px 10px;
+}
+.input-group{
+	margin: 10px 0px 10px 0px;
+}
+
+.input-group label{
+	display: block;
+	text-align: left;
+	margin: 3px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.input-group input {
+	height:30px;
+	width:93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid grey;
+	background: #ffff99;
+}
+.btn{
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EA0;
+	border:none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.createnote{
+
+
+
+
+}
+.tab{
+
+	border-style: solid;
+	border-color: orange;
+	border-width: 2.5px;
+	border-radius: 2px;
+
+}
+.error{
+
+	color: red;
+	background-color: cyan;
+}

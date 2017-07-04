@@ -1,0 +1,55 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-size: 120%;
+	background: #003399;
+
+}
+.intro1{
+	display: block;
+	background:#4d4d4d;
+	padding: 15px 0px 2px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #33adff;
+	border-bottom: 2px solid yellow;
+
+}
+
+.header1{
+	text-align: center;
+	width:20%;
+	margin:10px auto;
+	color:yellow;
+
+}
+.Welcome{
+	color:pink;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	text-align: center;
+}
+.tab{
+
+}
+th, td {
+    padding: 15px;
+}
+table {
+    border-spacing: 5px;
+}
+table {
+    border-collapse: collapse;
+}
+table {
+    border: 2px solid orange;
+}
+table {
+    width: 80%;
+}
+
+th {
+    height: 50px;
+}
